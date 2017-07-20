@@ -1,6 +1,6 @@
 {
   "name": "@tiaanduplessis/mem-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get memory usage stats for a process",
   "license": "MIT",
   "repository": {
@@ -10,7 +10,9 @@
   "homepage": "https://github.com/tiaanduplessis/mem-monitor",
   "bugs": "https://github.com/tiaanduplessis/mem-monitor",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "jest",
     "lint": "prettier-standard index.js",
