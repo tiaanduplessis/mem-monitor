@@ -61,9 +61,9 @@ A silly little logging utility to show the memory usage of a process. Inspired b
 ## Install
 
 ```sh
-$ npm install mem-monitor
+$ npm install @tiaanduplessis/mem-monitor
 # OR
-$ yarn add mem-monitor
+$ yarn add @tiaanduplessis/mem-monitor
 ```
 
 ## Usage
