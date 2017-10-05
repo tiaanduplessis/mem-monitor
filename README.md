@@ -56,6 +56,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/mem-monitor.svg)](https://greenkeeper.io/)
+
 A silly little logging utility to show the memory usage of a process. Inspired by [this](https://www.valentinog.com/blog/memory-usage-node-js/) excellent post.
 
 ## Install
